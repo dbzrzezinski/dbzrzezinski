@@ -1,4 +1,4 @@
-👋 Hi, I’m Daniel Brzezinski a webdeveloper from Germany 🇩🇪 born in poland 🇵🇱 @dbzrzezinski
+👋 Hi, I’m Daniel Brzezinski a web developer from Germany 🇩🇪 born in poland 🇵🇱 @dbzrzezinski
 
 👀 I’m interested in webdevelopment, 3d printing, modelling and woodworking. I love to create things. 
 🌱 I’m currently learning React and Astro as Frontendframword. In my spare time i'm going for Fusion360 to create usefull 3D Models to make my life easier. 
